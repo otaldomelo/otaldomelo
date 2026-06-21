@@ -12,7 +12,7 @@ Me chamo Melo, tenho 16 anos e sou natural de São Paulo. Atualmente cursando o 
             src="https://custom-icon-badges.demolab.com/github/stars/otaldomelo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/otaldomelo?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
