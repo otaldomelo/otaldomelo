@@ -5,7 +5,7 @@
 Me chamo Melo, tenho 16 anos e sou natural de São Paulo. Atualmente cursando o ensino médio integrado ao técnico na ETEC , com o curso técnico em informática Para Internet. 
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/otaldomelo?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
