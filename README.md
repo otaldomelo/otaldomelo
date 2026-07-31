@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Iniciante`**
 
-Me chamo Melo, tenho 16 anos e sou natural de São Paulo. Atualmente cursando o ensino médio integrado ao técnico na ETEC , com o curso técnico em informática Para Internet. 
+Me chamo Melo, tenho 17 anos e sou natural de São Paulo. Atualmente cursando o ensino médio integrado ao técnico na ETEC , com o curso técnico em informática Para Internet. 
 
 <p align="left">
     <a href="https://github.com/otaldomelo?tab=repositories&sort=stargazers">
